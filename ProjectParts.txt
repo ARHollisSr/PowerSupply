@@ -1,0 +1,17 @@
+//--------------------------------------------
+// PARTS
+//--------------------------------------------
+1 LM7805 voltage regulator IC, T0220
+4 1N4007 rectifier diodes
+1 470 uf capacitor --working volts of at least 25V
+1 47 uf capacitor --working volts of at least 25V
+1 RED LED
+1 GREEN LED 
+2 560 ohm resistors 
+1 Slide switch on/off 
+2 2x2 headers to interface pwr supply and breadboard 
+1 Barrel connector for power input
+
+
+
+
