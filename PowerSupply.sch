@@ -373,4 +373,74 @@ Text Label 6775 3325 0    50   ~ 0
 Vout1
 Text Label 8450 3250 0    50   ~ 0
 Vout2
+Wire Notes Line
+	4025 2750 4025 5750
+Wire Notes Line
+	4025 5750 3075 5750
+Wire Notes Line
+	3075 5750 3075 2750
+Wire Notes Line
+	3075 2750 4025 2750
+Wire Notes Line
+	4225 2750 4225 5750
+Wire Notes Line
+	4225 5750 5250 5750
+Wire Notes Line
+	5250 5750 5250 2750
+Wire Notes Line
+	5250 2750 4225 2750
+Wire Notes Line
+	5325 2750 5325 5750
+Wire Notes Line
+	5325 5750 7000 5750
+Wire Notes Line
+	7000 5750 7000 2750
+Wire Notes Line
+	7000 2750 5325 2750
+Wire Notes Line
+	7075 2750 7075 5725
+Wire Notes Line
+	7075 5725 7500 5725
+Wire Notes Line
+	7500 5725 7500 2750
+Wire Notes Line
+	7500 2750 7075 2750
+Wire Notes Line
+	7575 2750 7575 5750
+Wire Notes Line
+	7575 5750 8150 5750
+Wire Notes Line
+	8150 5750 8150 2750
+Wire Notes Line
+	8150 2750 7575 2750
+Wire Notes Line
+	8175 5750 8675 5750
+Wire Notes Line
+	8675 5750 8675 2750
+Wire Notes Line
+	8675 2750 8175 2750
+Wire Notes Line
+	8175 2750 8175 5750
+Wire Notes Line
+	8725 2675 8725 5750
+Wire Notes Line
+	8725 5750 10075 5750
+Wire Notes Line
+	10075 5750 10075 2675
+Wire Notes Line
+	10075 2675 8725 2675
+Text Notes 3075 2725 0    50   ~ 0
+N1 - Power Input
+Text Notes 4225 2725 0    50   ~ 0
+N2 - Bridge Rectifier
+Text Notes 5325 2725 0    50   ~ 0
+N3 - Voltage Regulator
+Text Notes 7075 2725 0    50   ~ 0
+N4 -\nPower\nIndicator
+Text Notes 7575 2725 0    50   ~ 0
+N5 - \nOn/Off Switch
+Text Notes 8150 2725 0    50   ~ 0
+N6 - \nOutput\nPWR Indicator
+Text Notes 8725 2625 0    50   ~ 0
+N7 - Power Output
 $EndSCHEMATC
