@@ -367,7 +367,7 @@ Wire Wire Line
 	5775 5450 6050 5450
 Text Label 4725 3350 0    50   ~ 0
 Vin
-Text Label 4800 5425 0    50   ~ 0
+Text Label 4775 5450 0    50   ~ 0
 V-
 Text Label 6750 3350 0    50   ~ 0
 Vout1
