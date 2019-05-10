@@ -365,11 +365,11 @@ Wire Wire Line
 Connection ~ 5775 5450
 Wire Wire Line
 	5775 5450 6050 5450
-Text Label 4750 3325 0    50   ~ 0
+Text Label 4725 3350 0    50   ~ 0
 Vin
 Text Label 4800 5425 0    50   ~ 0
 V-
-Text Label 6775 3325 0    50   ~ 0
+Text Label 6750 3350 0    50   ~ 0
 Vout1
 Text Label 8450 3250 0    50   ~ 0
 Vout2
