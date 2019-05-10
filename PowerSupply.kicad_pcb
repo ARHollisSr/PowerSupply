@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 0)
+    (drawings 8)
     (tracks 0)
     (zones 0)
     (modules 15)
@@ -141,7 +141,7 @@
   )
 
   (module Capacitor_THT:CP_Radial_D10.0mm_P5.00mm (layer F.Cu) (tedit 5AE50EF1) (tstamp 5CD5157E)
-    (at 114.485647 124.989001)
+    (at 238.310647 73.681001)
     (descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor")
     (path /5CD41669)
@@ -363,7 +363,7 @@
   )
 
   (module Capacitor_THT:CP_Radial_D6.3mm_P2.50mm (layer F.Cu) (tedit 5AE50EF0) (tstamp 5CD51612)
-    (at 137.856242 109.089001)
+    (at 261.681242 57.781001)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor")
     (path /5CD42457)
@@ -529,7 +529,7 @@
   )
 
   (module Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5CD51631)
-    (at 98.911001 124.339001)
+    (at 222.736001 73.031001)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5CD37B26)
@@ -582,7 +582,7 @@
   )
 
   (module Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5CD51650)
-    (at 111.461001 107.289001)
+    (at 235.286001 55.981001)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5CD3FE81)
@@ -635,7 +635,7 @@
   )
 
   (module Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5CD5166F)
-    (at 98.911001 128.589001)
+    (at 222.736001 77.281001)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5CD3F3AA)
@@ -688,7 +688,7 @@
   )
 
   (module Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal (layer F.Cu) (tedit 5AE50CD5) (tstamp 5CD5168E)
-    (at 111.461001 111.539001)
+    (at 235.286001 60.231001)
     (descr "Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=10.16mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf")
     (tags "Diode DO-41_SOD81 series Axial Horizontal pin pitch 10.16mm  length 5.2mm diameter 2.7mm")
     (path /5CD40742)
@@ -741,7 +741,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 5CD516A0)
-    (at 125.231001 122.999001)
+    (at 249.056001 71.691001)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /5CD441AD)
@@ -777,7 +777,7 @@
   )
 
   (module LED_THT:LED_D5.0mm (layer F.Cu) (tedit 5995936A) (tstamp 5CD516B2)
-    (at 137.341001 116.789001)
+    (at 261.166001 65.481001)
     (descr "LED, diameter 5.0mm, 2 pins, http://cdn-reichelt.de/documents/datenblatt/A500/LL-504BC2E-009.pdf")
     (tags "LED diameter 5.0mm 2 pins")
     (path /5CD42B2D)
@@ -813,7 +813,7 @@
   )
 
   (module Connector_BarrelJack:BarrelJack_CUI_PJ-102AH_Horizontal (layer F.Cu) (tedit 5A1DBF38) (tstamp 5CD516D4)
-    (at 102.561001 107.489001)
+    (at 226.386001 56.181001)
     (descr "Thin-pin DC Barrel Jack, https://cdn-shop.adafruit.com/datasheets/21mmdcjackDatasheet.pdf")
     (tags "Power Jack")
     (path /5CD495E1)
@@ -866,7 +866,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 5CD516EE)
-    (at 132.581001 122.889001)
+    (at 256.406001 71.581001)
     (descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x02 2.54mm double row")
     (path /5CD47BF0)
@@ -912,7 +912,7 @@
   )
 
   (module Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical (layer F.Cu) (tedit 59FED5CC) (tstamp 5CD51708)
-    (at 139.781001 122.889001)
+    (at 263.606001 71.581001)
     (descr "Through hole straight pin header, 2x02, 2.54mm pitch, double rows")
     (tags "Through hole pin header THT 2x02 2.54mm double row")
     (path /5CD48B93)
@@ -958,7 +958,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CD5171F)
-    (at 125.671001 113.149001)
+    (at 249.496001 61.841001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5CD44A91)
@@ -999,7 +999,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 5CD51736)
-    (at 125.671001 117.199001)
+    (at 249.496001 65.891001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /5CD45C68)
@@ -1040,7 +1040,7 @@
   )
 
   (module digikey-footprints:Switch_Slide_11.6x4mm_EG1218 (layer F.Cu) (tedit 5A1EC915) (tstamp 5CD5174E)
-    (at 115.141001 116.439001)
+    (at 238.966001 65.131001)
     (descr http://spec_sheets.e-switch.com/specs/P040040.pdf)
     (path /5CD465F3)
     (fp_text reference SW1 (at 2.49 -3.02) (layer F.SilkS)
@@ -1077,7 +1077,7 @@
   )
 
   (module Package_TO_SOT_THT:TO-220-3_Vertical (layer F.Cu) (tedit 5AC8BA0D) (tstamp 5CD51768)
-    (at 126.731001 109.089001)
+    (at 250.556001 57.781001)
     (descr "TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf")
     (tags "TO-220-3 Vertical RM 2.54mm")
     (path /5CD35ECB)
@@ -1120,5 +1120,14 @@
       (rotate (xyz 0 0 0))
     )
   )
+
+  (gr_line (start 132.969 76.2) (end 101.981 76.2) (layer Edge.Cuts) (width 0.05) (tstamp 5CD534E8))
+  (gr_line (start 132.969 83.82) (end 132.969 76.2) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 126.746 83.82) (end 132.969 83.82) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 126.746 121.539) (end 126.746 83.82) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 132.969 121.539) (end 126.746 121.539) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 132.969 128.397) (end 132.969 121.539) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 101.981 128.397) (end 132.969 128.397) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start 101.981 76.2) (end 101.981 128.397) (layer Edge.Cuts) (width 0.05))
 
 )
